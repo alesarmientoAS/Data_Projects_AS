@@ -5,6 +5,8 @@ This is the first approach to understand the importance of Git, the chance to cr
 
 **The value of this first repository lies in the fact that I´ve been a Big Data Student for less than 3 months, no tech background, just eager to work proactively in data projects and be a catalyst for new data based business solutions**
 
+|GitHub Profile | https://github.com/alesarmientoAS |
+
 *AS.*
 
 
